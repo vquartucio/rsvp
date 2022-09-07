@@ -1,0 +1,12 @@
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+    font-size: 15pt;
+}
+th, td {
+    background-color: #96D4D4;
+}
+
+body{
+    background-color: powderblue;
+}
